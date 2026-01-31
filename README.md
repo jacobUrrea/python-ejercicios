@@ -1,17 +1,17 @@
-#Taller Python
+Taller Python
 
 Este repositorio contiene una serie de cuadernos desarrollados como parte del aprendizaje
 de los conceptos basicos del lenguaje Python. Cada uno de ellos se centra en un concepto especifico de Python, acompañado de ejemplos y explicaciones para facilitar la comprension de cada una. Siendo el principal objetivo el comprender el funcionamiento y logica de Python. Cada cuaderno incluye explicaciones que permiten entender qué hace el código y por qué lo hace.
 
 Contenido del repositorio:
 Este proyecto prioriza:
---- Código legible y bien comentado
---- Comprensión conceptual antes que memorización
---- Uso del tipado dinámico de Python
+- Código legible y bien comentado
+- Comprensión conceptual antes que memorización
+- Uso del tipado dinámico de Python
 
 Tecnologías utilizadas:
---- Python 
---- Jupyter Notebook
+- Python 
+- Jupyter Notebook
 
 Autor: Andres Jacobo Urrea Ochoa  
 Estudiante de la carrera de ciencia de datos
