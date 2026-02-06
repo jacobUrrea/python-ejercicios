@@ -1,21 +1,21 @@
-Taller Python
+## **PONTIFICIA UNIVERSIDAD JAVERIANA**
 
-Este repositorio contiene una serie de cuadernos desarrollados como parte del aprendizaje
+- **Autor**: *Andres Jacobo Urrea Ochoa*  
+- **ID**: 00020552119
+- **Curso**: Procesamiento de datos a gran escala
+- **Tema**: Taller Python
+- **Descripcion**: Este repositorio contiene una serie de cuadernos desarrollados como parte del aprendizaje
 de los conceptos basicos del lenguaje Python. Cada uno de ellos se centra en un concepto especifico de Python, acompañado de ejemplos y explicaciones para facilitar la comprension de cada una. Siendo el principal objetivo el comprender el funcionamiento y logica de Python. Cada cuaderno incluye explicaciones que permiten entender qué hace el código y por qué lo hace.
 
-Contenido del repositorio:
+**Contenido del repositorio**:
 Este proyecto prioriza:
 - Código legible y bien comentado
 - Comprensión conceptual antes que memorización
 - Uso del tipado dinámico de Python
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas**:
 - Python 
 - Jupyter Notebook
-
-Autor: Andres Jacobo Urrea Ochoa  
-Estudiante de la carrera de ciencia de datos
-Materia: Procesamiento de Datos
 
 1. Cadenas
 - Manipulación de texto
@@ -64,5 +64,8 @@ Materia: Procesamiento de Datos
 - Parámetros y valores de retorno
 - Uso de una misma función con distintos tipos de datos
 
+9. Clases
+- Caracteristicas principales
+- Uso de cadenas
 
 
