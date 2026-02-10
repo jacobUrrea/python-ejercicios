@@ -10,7 +10,6 @@ de los conceptos basicos del lenguaje Python. Cada uno de ellos se centra en un 
 **Contenido del repositorio**:
 Este proyecto prioriza:
 - Código legible y bien comentado
-- Comprensión conceptual antes que memorización
 - Uso del tipado dinámico de Python
 
 **Tecnologías utilizadas**:
